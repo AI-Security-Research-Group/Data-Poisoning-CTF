@@ -4,7 +4,10 @@
 
 Ever wondered if you could make an AI assistant go rogue? Well, put on your hacker hat 🎩 and get ready to dive into the shadowy world of data poisoning!
 
-## 🧠 What's This Brain-Bending Challenge About?
+## Level
+Easy
+
+## 🧠 What's This Challenge About?
 
 In this Capture The Flag (CTF) adventure, you'll be:
 
@@ -41,6 +44,8 @@ Ready to create your AI manipulation chamber? Follow these steps:
    ```
 
 5. 🌐 Open your browser and navigate to `http://localhost:5000`. Let the games begin!
+
+_Todo: Remove debug logs(you can play with debug logs too)_
 
 ## 🕹 How to Play (and Mess with AI Minds)
 
