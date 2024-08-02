@@ -35,7 +35,7 @@ Ready to create your AI manipulation chamber? Follow these steps:
 
 3. 💊 Install the required packages (the ingredients for your AI-manipulating potion):
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 4. 🚀 Launch the challenge:
