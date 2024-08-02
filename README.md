@@ -23,7 +23,7 @@ Ready to create your AI manipulation chamber? Follow these steps:
 
 1. 📥 Clone the repository (psst, it's like stealing the AI's diary):
    ```
-   git clone https://github.com/your-username/data-poisoning-ctf.git
+   git clone https://github.com/AI-Security-Research-Group/Data-Poisoning-CTF.git
    cd data-poisoning-ctf
    ```
 
