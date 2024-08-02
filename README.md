@@ -29,7 +29,7 @@ Ready to create your AI manipulation chamber? Follow these steps:
 
 2. 🐍 Create a virtual environment (optional!):
    ```
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
@@ -40,7 +40,7 @@ Ready to create your AI manipulation chamber? Follow these steps:
 
 4. 🚀 Launch the challenge:
    ```
-   python app.py
+   python3 app.py
    ```
 
 5. 🌐 Open your browser and navigate to `http://localhost:5000`. Let the games begin!
