@@ -27,7 +27,7 @@ Ready to create your AI manipulation chamber? Follow these steps:
    cd data-poisoning-ctf
    ```
 
-2. 🐍 Create a virtual environment (your secret hideout):
+2. 🐍 Create a virtual environment (optional!):
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
